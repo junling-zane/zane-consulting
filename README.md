@@ -4,7 +4,6 @@ Data Science &amp; Cybersecurity Consulting
 **Start date:** 2025-10-16  
 **Services:**   
 **Stack:** Python • R • SQL • ML/DL
-**Current Sprint** Sprint I - Groundwork
 
 ## What I do
 - Data/risk analyses, modeling, and decision-ready insights  
